@@ -210,7 +210,7 @@ const Cart = () => {
                   </div>
                 </div>
 
-                <Link href="/success">
+                <Link href="/Success">
                   <button
                     type="submit"
                     className="w-full bg-orange-500 text-white py-3 rounded-md hover:bg-orange-600 transition cursor-pointer"
@@ -228,3 +228,4 @@ const Cart = () => {
 };
 
 export default Cart;
+
